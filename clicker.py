@@ -54,4 +54,4 @@ while (time.localtime(time.time())[3] < awake_time):
     pGUI.moveTo(x=position[0], y=position[1], duration=0.1)
     #pause the program for the desired interval
     time.sleep(clicktime)
-## %%
+##%%
